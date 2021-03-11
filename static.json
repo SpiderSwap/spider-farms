@@ -1,0 +1,9 @@
+{
+  "root": "build/",
+  "routes": {
+    "/farms/*": "index.html",
+    "/spiderweb/*": "index.html",
+    "/farms": "index.html",
+    "/spiderweb": "index.html"
+  }
+}
